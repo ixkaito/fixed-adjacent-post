@@ -1,5 +1,7 @@
 # Fixed Adjacent Post
 
+Fixed Adjacent Post is a WordPress plugin.
+
 Requires at least: 3.9-RC1  
 Tested up to: 3.9
 
