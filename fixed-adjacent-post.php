@@ -1,13 +1,12 @@
 <?php
 /*
 Plugin Name: Fixed Adjacent Post
-Plugin URI: http://kiteretz.com/
+Plugin URI: https://github.com/ixkaito/fixed-adjacent-post
 Version: 1.0
 Author: KITE
 Description: Fix the not-excluding terms bug of get_adjacent_post().
 */
 
-// Navigation links
 
 /**
  * Retrieve previous post that is adjacent to current post.
