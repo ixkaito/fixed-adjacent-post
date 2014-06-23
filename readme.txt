@@ -1,20 +1,15 @@
-# Fixed Adjacent Post
-
-Fixed Adjacent Post is a WordPress plugin.
-
-Requires at least: 3.9-RC1  
+=== Fixed Adjacent Post ===
+Tags: adjacent, post, links, previous post, next post
+Requires at least: 3.9-RC1
 Tested up to: 3.9
+License: GPLv2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-## Description
+== Description ==
 
-Fix the not-excluding terms bug of get_adjacent_post().
+Fix the not-excluding terms bug of `get_adjacent_post()`.
 
-## Installation
-
-1. Upload the `fixed-adjacent-post` folder to the `/wp-content/plugins/` directory.
-2. Activate the plugin through the Plugins menu in WordPress.
-
-## Usage
+Usage:
 
 * `get_fixed_previous_post( $in_same_term = false, $excluded_terms = '', $taxonomy = 'category' )`
 	- alternatively to `get_previous_post()`
@@ -57,3 +52,9 @@ Fix the not-excluding terms bug of get_adjacent_post().
 
 * `fixed_adjacent_post_link( $format, $link, $in_same_cat = false, $excluded_terms = '', $previous = true, $taxonomy = 'category' )`
 	- alternatively to `adjacent_post_link()`
+
+== Installation ==
+
+1. Upload the `fixed-adjacent-post` folder to the `/wp-content/plugins/` directory.
+2. Activate the plugin through the Plugins menu in WordPress.
+3. Then you can use the above functions in your themes.
