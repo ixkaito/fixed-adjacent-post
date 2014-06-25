@@ -5,9 +5,9 @@ Tested up to: 3.9
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-== Description ==
-
 Fix the not-excluding terms bug of `get_adjacent_post()`.
+
+== Description ==
 
 Usage:
 
