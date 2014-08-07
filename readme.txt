@@ -2,6 +2,7 @@
 Tags: adjacent, post, links, previous post, next post
 Requires at least: 3.9-RC1
 Tested up to: 3.9
+Stable tag: 1.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -58,3 +59,8 @@ Usage:
 1. Upload the `fixed-adjacent-post` folder to the `/wp-content/plugins/` directory.
 2. Activate the plugin through the Plugins menu in WordPress.
 3. Then you can use the above functions in your themes.
+
+== Changelog ==
+
+= 1.0 =
+* The first version.
