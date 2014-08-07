@@ -1,4 +1,5 @@
 === Fixed Adjacent Post ===
+Contributors: ixkaito
 Tags: adjacent, post, links, previous post, next post
 Requires at least: 3.9-RC1
 Tested up to: 3.9
